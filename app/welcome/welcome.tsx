@@ -1,4 +1,4 @@
-import logoDark from "./logo-dark.svg";
+import logoDark from "./saogen-logo.png";
 import logoLight from "./logo-light.svg";
 
 export function Welcome({ message }: { message: string }) {
@@ -49,8 +49,8 @@ export function Welcome({ message }: { message: string }) {
 
 const resources = [
 	{
-		href: "https://reactrouter.com/docs",
-		text: "React Router Docs",
+		href: "https://github.com/QOGE/SAOGEN",
+		text: "SAOGEN Docs",
 		icon: (
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
@@ -69,8 +69,8 @@ const resources = [
 		),
 	},
 	{
-		href: "https://rmx.as/discord",
-		text: "Join Discord",
+		href: "https://discord.gg/dcEMCcbct",
+		text: "SAOGEN Discord",
 		icon: (
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
