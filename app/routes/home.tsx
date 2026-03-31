@@ -8,7 +8,7 @@ export default function Home() {
           alt="SAOGEN Logo"
           style={{ width: 160, height: 160, marginBottom: 24 }}
         />
-        <h1>SAOGEN</h1>
+        <!-- h1>SAOGEN</h1 -->
         <p>Symbiotic Autonomous Organization built on the QOGE blockchain.</p>
         <p>
           Hyper-optimization, shared intellectual property, and long-term
