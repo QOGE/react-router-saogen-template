@@ -1,5 +1,5 @@
-import logoDark from "./saogen-logo.png";
-import logoLight from "./saogen_logo_light.png";
+import logoDark from "./logo-dark.png";
+import logoLight from "./logo-light.png";
 
 export function Welcome({ message }: { message: string }) {
 	return (
