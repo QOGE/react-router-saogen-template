@@ -21,7 +21,7 @@ export function Welcome({ message }: { message: string }) {
 				</header>
 				  <main className="home">
       <section className="hero">
-        <h1>SAOGEN</h1>
+        <h1>SAO</h1>
         <p>Symbiotic Autonomous Organization built on the QOGE blockchain.</p>
         <p>
           Hyper-optimization, shared intellectual property, and long-term
