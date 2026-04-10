@@ -19,7 +19,7 @@ export function Welcome({ message }: { message: string }) {
 						/>
 					</div>
 				</header>
-				  <main className="home">
+				  <main className="hero">
       <section className="hero">
         <h1>SYMBIOTIC AUTONOMOUS ORGANISATION</h1>
         <p>on QOGE blockchain.</p>
