@@ -20,7 +20,7 @@ export function Welcome({ message }: { message: string }) {
 					</div>
 				</header>
 				
-        <h1>Symbiotic Autonomous Organization</h1>
+        <h1>Symbiotic Autonomous Organization built on QOGE and SOLANA blockchains</h1>
       <div className="max-w-[300px] w-full space-y-6 px-4">
 					<nav className="rounded-3xl border border-gray-200 p-6 dark:border-gray-700 space-y-4">
 
