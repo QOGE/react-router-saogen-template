@@ -54,6 +54,7 @@ export function Welcome({ message }: { message: string }) {
 	);
 }
 
+<button class="bg-blue-500 ...">Button A</button>
 const resources = [
 	{
 		href: "https://github.com/QOGE/SAOGEN",
