@@ -57,7 +57,7 @@ export function Welcome({ message }: { message: string }) {
 const resources = [
 	{
 		href: "https://github.com/QOGE/SAOGEN",
-		text: "SAOGEN Docs",
+		text: "SAO",
 		icon: (
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
@@ -77,7 +77,7 @@ const resources = [
 	},
 	{
 		href: "https://discord.gg/dcEMCcbct",
-		text: "SAOGEN Discord",
+		text: "SAS",
 		icon: (
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
