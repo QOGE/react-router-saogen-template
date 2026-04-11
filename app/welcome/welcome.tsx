@@ -22,8 +22,8 @@ export function Welcome({ message }: { message: string }) {
 				  <main className="hero">
       <section className="hero">
         <h1 class="text-center">Symbiotic Autonomous Organisation</h1>
-        <p>on QOGE blockchain.</p>
-        <p>
+        <p class="text-center">on QOGE blockchain.</p>
+        <p class="text-center">
           Hyper-optimization, shared intellectual property, and long-term
           posthuman infrastructure.
         </p>
