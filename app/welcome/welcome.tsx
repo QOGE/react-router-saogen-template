@@ -58,7 +58,7 @@ export function Welcome({ message }: { message: string }) {
 const resources = [
 	{
 		href: "https://github.com/QOGE/SAOGEN",
-		text: "SAO",
+		text: "Symbiotic Autonomous Organisation",
 		icon: (
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +78,7 @@ const resources = [
 	},
 	{
 		href: "https://discord.gg/dcEMCcbct",
-		text: "SAS",
+		text: "Symbiotic Autonomous Systems",
 		icon: (
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
