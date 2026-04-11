@@ -23,10 +23,7 @@ export function Welcome({ message }: { message: string }) {
       <section className="hero">
         <h1 class="text-center">Symbiotic Autonomous Organisation</h1>
         <p class="text-center">on QOGE blockchain.</p>
-        <p class="text-center">
-          Hyper-optimization, shared intellectual property, and long-term
-          posthuman infrastructure.
-        </p>
+       
       </section>
     </main>
 				<div className="max-w-[300px] w-full space-y-6 px-4">
