@@ -23,6 +23,13 @@ export function Welcome({ message }: { message: string }) {
       <section className="hero">
         <h1 class="text-center">Symbiotic Autonomous Organisation</h1>
         <p class="text-center">on QOGE blockchain.</p>
+
+
+<script type="text/javascript" src="https://unpkg.com/@coinpaprika/widget-currency/dist/widget.min.js"></script><div class="coinpaprika-currency-widget cp-widget__night-mode" data-primary-currency="usd" data-currency="qoge-qogecoin" data-custom-date="false" data-start-date="0" data-end-date="0" data-modules='["market_details","chart"]' data-update-active="true" data-update-timeout="30m"></div>
+
+
+
+		  
        
       </section>
     </main>
