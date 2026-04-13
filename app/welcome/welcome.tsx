@@ -29,7 +29,7 @@ export function Welcome({ message }: { message: string }) {
 				<div className="max-w-[300px] w-full space-y-6 px-4">
 					<nav className="rounded-3xl border border-gray-200 p-6 dark:border-gray-700 space-y-4">
 						<p className="leading-6 text-gray-700 dark:text-gray-200 text-center">
-							What&apos;s next? <button class="bg-blue-500 ...">Button A</button>
+							 <button class="bg-blue-500 ...">What&apos;s next?</button>
 						</p>
 						
 						<ul>
@@ -58,8 +58,8 @@ export function Welcome({ message }: { message: string }) {
 
 const resources = [
 	{
-		href: "https://github.com/QOGE/SAOGEN",
-		text: "SAO",
+		href: "https://discord.gg/dcEMCcbct",
+		text: "SAO Membership",
 		icon: (
 			<svg
 				xmlns="http://www.w3.org/2000/svg"
@@ -78,7 +78,7 @@ const resources = [
 		),
 	},
 	{
-		href: "https://discord.gg/dcEMCcbct",
+		href: "https://saogen.org/sas/",
 		text: "Autonomous Systems",
 		icon: (
 			<svg
