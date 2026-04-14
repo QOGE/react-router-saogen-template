@@ -60,7 +60,7 @@ const resources = [
 		
 	},
 	{
-		href: "https://saogen.org/sas.tsx",
+		href: "./sas.tsx",
 		text: "Autonomous Systems",
 
 	},
